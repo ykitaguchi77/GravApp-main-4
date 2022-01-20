@@ -24,7 +24,7 @@ struct OutputPage: View {
                     HStack{
                         Text("youare")
                             .onAppear(){
-//                                sendDataset()
+                                sendDataset()
 //                                getEvaluation()
                             }
                             .font(.title3)
